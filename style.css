@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: grey;
+}
+
+h1 {
+  text-align: center;
+}
+
+.film-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.film-list-item {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.film-title {
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.film-description {
+  margin-top: 0;
+}
+a:link {
+  text-decoration: none;
+  color: black;
+}
